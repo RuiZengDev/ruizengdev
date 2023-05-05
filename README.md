@@ -26,6 +26,7 @@ Phone: <br>
 Blog: <br>
 Zhihu: <br>
 CSDN: <br>
+Bilibili: <br>
 <h3>Educational Background</h3>
 JLU | 
 

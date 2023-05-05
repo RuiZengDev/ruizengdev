@@ -21,11 +21,11 @@
 
 ---
 
-Email: ruizeng@aol.com
-Phone: 
-Blog:
-Zhihu:
-CSDN:
+Email: ruizeng@aol.com <br>
+Phone: <br>
+Blog: <br>
+Zhihu: <br>
+CSDN: <br>
 <h3>Educational Background</h3>
 JLU | 
 

@@ -20,13 +20,9 @@
 <h3>Contact Information</h3>
 
 ---
-
 Email: ruizeng@aol.com <br>
-Phone: <br>
-Blog: <br>
-Zhihu: <br>
+Blog: https://write.jzfx.top/<br>
 CSDN: <br>
-Bilibili: <br>
 <h3>Educational Background</h3>
 JLU | 
 
@@ -46,16 +42,10 @@ JLU |
   <td>Language</td>
   <td>
     <img src="https://img.shields.io/badge/bash-4EAA25.svg?style=for-the-badge&logo=gnubash&logoColor=4EAA25&labelColor=white">
-  </td>
-</tr>
-<tr>
-  <td>Containerization</td>
-  <td>
-    <img src="https://img.shields.io/badge/docker-2496ED.svg?style=for-the-badge&logo=docker&logoColor=2496ED&labelColor=white">
     <img src="https://img.shields.io/badge/c-2496ED.svg?style=for-the-badge&logo=c&logoColor=2496ED&labelColor=white">
+    <img src="https://img.shields.io/badge/python-3776AB.svg?style=for-the-badge&logo=python&logoColor=3776AB&labelColor=white">
   </td>
 </tr>
-
 <tr>
   <td>Toolchains</td>
   <td>
@@ -77,7 +67,6 @@ JLU |
     <img src="https://img.shields.io/badge/golang-00ADD8.svg?style=for-the-badge&logo=go&logoColor=00ADD8&labelColor=white">
     <img src="https://img.shields.io/badge/java-F56C2D.svg?style=for-the-badge&logo=openjdk&logoColor=F56C2D&labelColor=white">
     <img src="https://img.shields.io/badge/c++-00599C.svg?style=for-the-badge&logo=cplusplus&logoColor=00599C&labelColor=white">
-    <img src="https://img.shields.io/badge/python-3776AB.svg?style=for-the-badge&logo=python&logoColor=3776AB&labelColor=white">
   </td>
 </tr>
 </table>

@@ -11,11 +11,11 @@
 
 <hr/>
 
-- 🌐 &nbsp; Learning on webserver backend development and devops.
+- 🌐 &nbsp; I want to become an embedded engineer.
 
 - 🤖 &nbsp; Learning new technologies and developing solutions.
 
-- 🌱 &nbsp; Building a gitbook desktop app on my own.
+- 🌱 &nbsp; Planing build a gitbook desktop app on my own.
 
 <h3>Contact Information</h3>
 
@@ -52,23 +52,10 @@ JLU |
   <td>Containerization</td>
   <td>
     <img src="https://img.shields.io/badge/docker-2496ED.svg?style=for-the-badge&logo=docker&logoColor=2496ED&labelColor=white">
+    <img src="https://img.shields.io/badge/c-2496ED.svg?style=for-the-badge&logo=c&logoColor=2496ED&labelColor=white">
   </td>
 </tr>
-<tr>
-  <td>Frontend</td>
-  <td>
-    <img src="https://img.shields.io/badge/vue.js-4FC08D.svg?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D&labelColor=white">
-    <img src="https://img.shields.io/badge/typescript-3178C6.svg?style=for-the-badge&logo=typescript&logoColor=3178C6&labelColor=white">
-    <img src="https://img.shields.io/badge/node.js-339933.svg?style=for-the-badge&logo=nodedotjs&logoColor=339933&labelColor=white">
-  </td>
-</tr>
-<tr>
-  <td>Database</td>
-  <td>
-    <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=4479A1&labelColor=white">
-    <img src="https://img.shields.io/badge/oracle-F80000.svg?style=for-the-badge&logo=oracle&logoColor=F80000&labelColor=white">
-  </td>
-</tr>
+
 <tr>
   <td>Toolchains</td>
   <td>
